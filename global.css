@@ -1,0 +1,19 @@
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+:root {
+  	
+  	/* fonts */
+  	--font-poppins: Poppins;
+  	
+  	/* Colors */
+  	--color-gainsboro: #e3e3e3;
+  	
+  	/* Border radiuses */
+  	--br-31xl: 50px;
+  	
+}
